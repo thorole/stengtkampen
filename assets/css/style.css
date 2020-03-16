@@ -16,8 +16,12 @@ img {
     width: 25%;
 }
 
+.medium-image {
+    width: 75%;
+}
+
 .download {
-    font-size: 25px;
+    font-size: 20px;
 }
 
 .center-content {
