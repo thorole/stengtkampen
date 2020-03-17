@@ -4,7 +4,8 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 
-img {
+
+.ukeplan-img {
     width: 80%;
 }
 
@@ -17,7 +18,7 @@ img {
 }
 
 .medium-image {
-    width: 75%;
+    width: 65%;
 }
 
 .alarm-bilde {
