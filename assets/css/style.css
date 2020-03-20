@@ -42,7 +42,7 @@ width: 40%;
 font-size: 20px !important;
 }
 
-p {
+p, li {
     font-size: 16px;
 }
 
