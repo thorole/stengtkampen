@@ -4,6 +4,9 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 
+.center {
+    margin: 0 auto;
+}
 
 .ukeplan-img {
     width: 80%;
@@ -46,6 +49,19 @@ p, li {
     font-size: 16px;
 }
 
-.elevarbeid-img {
-    width: 100%;
-}
+
+
+.frame{  
+        width: 250px;
+        height: 200px;
+        border: 1px solid black;
+        vertical-align: middle;
+        text-align: center;
+        display: table-cell;
+    }    
+.elevarbeid-img{
+        max-width: 100%;
+        max-height: 100%;
+        display: block;
+        margin: 0 auto;
+    }
