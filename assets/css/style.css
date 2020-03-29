@@ -26,6 +26,10 @@ body {
     margin-top: 10px;
 }
 
+.large-image {
+    width: 90%;
+}
+
 .alarm-bilde {
 width: 40%;
 }
