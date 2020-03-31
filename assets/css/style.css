@@ -71,3 +71,21 @@ p, li {
         display: block;
         margin: 0 auto;
     }
+.green {
+    color: green;
+}
+.blue {
+    color: blue;
+}
+.yellow {
+    color: rgb(94, 94, 6);
+}
+.red {
+    color: red;
+}
+.purple {
+    color: purple;
+}
+.cyan {
+    color: cyan;
+}
